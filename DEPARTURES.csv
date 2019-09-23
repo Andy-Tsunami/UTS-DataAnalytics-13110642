@@ -1,4 +1,4 @@
-﻿Flight No,Callsign,Origins,Airports,Int/Dom,FltTyp,Date,Sched Time,Est Date,Est Time,COBT_EST DATETIME,Off Chks Date,OFF BLOCK,Act Date,Act Time,PROV TOTAL PAX,Regn,AC TYPE,STATUS,Public,Terminal,STAND,Position,Gate,Avail. Desks,,
+﻿Flight_No,Callsign,Origins,Airports,Int_Dom,FltTyp,Date,Sched_Time,Est_Date,Est_Time,COBT_EST_DATETIME,Off_Chks_Date,OFF_BLOCK,Act_Date,Act_Time,PROV_TOTAL_PAX,Regn,AC_TYPE,STATUS,Public,Terminal,STAND,Position,Gate,Avail_Desks,,
 EK415,UAE8JH,Dubai ,DXB  ,I,J,1/03/2019,6:00,,,,1/03/2019,5:58,1/03/2019,6:17,409,A6EET,388,A,N,T1,57,,57,E1-E12,,
 FJ914,FJI914,Nadi ,NAN  ,I,J,1/03/2019,6:15,,,,1/03/2019,6:12,1/03/2019,6:25,160,DQFJM,73H,A,N,T1,31,,31,A13-A16,,
 PO240,PAC240,Tokyo ,NRT  ,I,F,1/03/2019,6:30,,,,1/03/2019,6:32,1/03/2019,6:50,0,N643GT,76Y,A,N,T1,1,,,,,
